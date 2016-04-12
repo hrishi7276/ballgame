@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\as\The Ball Game\app\src\main\lib\andengineaugmentedrealityextension.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77deab02117fb12fbb4b0f8dce3c8f8144c158db">
+        <dex dex="F:\as\The Ball Game\app\build\intermediates\pre-dexed\debug\andengineaugmentedrealityextension_2fb62aaa10e415da7bcaade16d65de590d1bafc8.jar" />
+    </item>
+    <item
+        jar="F:\as\The Ball Game\app\src\main\lib\andenginemultiplayerextension.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eef196459baa9b9cecfbbb214bb074249feb419f">
+        <dex dex="F:\as\The Ball Game\app\build\intermediates\pre-dexed\debug\andenginemultiplayerextension_a9455d58536ac6085cf79d33b30937eb543c8ec3.jar" />
+    </item>
+    <item
+        jar="F:\as\The Ball Game\app\src\main\lib\andenginephysicsbox2dextension.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="014927eb6d6644f9feebe21eaa36737d2048fc4c">
+        <dex dex="F:\as\The Ball Game\app\build\intermediates\pre-dexed\debug\andenginephysicsbox2dextension_143c2271861bca60032959dc292df192889a396d.jar" />
+    </item>
+    <item
+        jar="F:\as\The Ball Game\app\src\main\lib\andenginemultitouchextension.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b21054ba2054175dc702ac334111fe6744f58ff2">
+        <dex dex="F:\as\The Ball Game\app\build\intermediates\pre-dexed\debug\andenginemultitouchextension_b4ae8b30b98c25763fd44b00494bcd687b285353.jar" />
+    </item>
+    <item
+        jar="F:\as\The Ball Game\app\src\main\lib\andenginelivewallpaperextension.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5a8bb38f23ab0d6bb7985e10339714c621cd5530">
+        <dex dex="F:\as\The Ball Game\app\build\intermediates\pre-dexed\debug\andenginelivewallpaperextension_3643c990a461199971b4b39fbee321bdf087c9fb.jar" />
+    </item>
+    <item
+        jar="F:\as\The Ball Game\app\src\main\lib\andengine.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b5d1a76ac95dc2791bcb9e9e88264c04a29a603">
+        <dex dex="F:\as\The Ball Game\app\build\intermediates\pre-dexed\debug\andengine_97b497c6bf87f2be8cc9fde864e5c9e25c60d2c2.jar" />
+    </item>
+    <item
+        jar="F:\as\The Ball Game\app\src\main\lib\andenginemodplayerextension.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08dc6a04c31977753c042ecd115f350e092e45df">
+        <dex dex="F:\as\The Ball Game\app\build\intermediates\pre-dexed\debug\andenginemodplayerextension_dedb4e59fe3f7e8582bc058f2a13d8d9ebee288a.jar" />
+    </item>
+
+</items>

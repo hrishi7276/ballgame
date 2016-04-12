@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\as\The Ball Game\app\src\main\jniLibs"><file name="armeabi/libandenginephysicsbox2dextension.so" path="F:\as\The Ball Game\app\src\main\jniLibs\armeabi\libandenginephysicsbox2dextension.so"/><file name="armeabi/libxmp.so" path="F:\as\The Ball Game\app\src\main\jniLibs\armeabi\libxmp.so"/></source></dataSet><dataSet config="debug"><source path="F:\as\The Ball Game\app\src\debug\jniLibs"/></dataSet></merger>
