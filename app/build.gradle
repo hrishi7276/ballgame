@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+    defaultConfig {
+        applicationId 'com.hk.hrishi.ballgame'
+        minSdkVersion 4
+        targetSdkVersion 23
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('src/main/lib/andengine.jar')
+    compile files('src/main/lib/andengineaugmentedrealityextension.jar')
+    compile files('src/main/lib/andenginelivewallpaperextension.jar')
+    compile files('src/main/lib/andenginemodplayerextension.jar')
+    compile files('src/main/lib/andenginemultiplayerextension.jar')
+    compile files('src/main/lib/andenginemultitouchextension.jar')
+    compile files('src/main/lib/andenginephysicsbox2dextension.jar')
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">The Ball Game</string>
+    <string name="hello" translatable="false">AndEngineExamples</string>
+    
+    <!-- Example-Groups -->
+	
+	<!-- Examples -->
+	
+	<!-- Benchmarks -->
+	
+	<!-- Games -->
+	
+	<!-- Apps -->
+
+</resources>
